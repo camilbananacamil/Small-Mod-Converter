@@ -28,7 +28,7 @@ An AI-powered Minecraft mod loader converter based on Python, DeepSeek API, and 
 
 ## ☕ 支持作者 (Sponsor)
 如果这个工具为你节省了几天几夜的时间，欢迎请我喝杯咖啡：
-[爱发电链接](https://afdian.net/a/camil0908)
+[爱发电链接](https://afdian.com/a/camil0908)
 
 ## 📺 关注作者
 B 站：@吃甜食的卡米尔
